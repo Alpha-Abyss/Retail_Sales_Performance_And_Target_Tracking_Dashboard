@@ -79,6 +79,7 @@ Implemented:
 - Regional Revenue Analysis
 
 ### Row-Level Security (RLS)
+
 Implemented dynamic Row-Level Security using:
 
 ```DAX
@@ -89,10 +90,10 @@ Manager_Mapping_Table[Regional_Manager_Email]
 This allows regional managers to view only their assigned region's data.
 
 #### RLS Configuration
-![RLS Setup](RowSecurity_Setup.png)
+![RLS Setup](Screenshots/RowSecurity_Setup.png)
 
 #### RLS Testing Example
-![RLS Example](Security_example.png)
+![RLS Example](Screenshots/Security_example.png)
 
 ---
 
