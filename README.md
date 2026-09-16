@@ -92,8 +92,8 @@ In the initial dashboard prototype, separate security roles were created for eac
 This approach restricted users to viewing data from their assigned region through manually defined role filters.
 
 #### Static RLS Configuration
-![RLS Setup](Draft_Files/Draft_ScreenShots/Draft_SecurtiySetup.png)
-![RLS Setup](Draft_Files/Draft_ScreenShots/RLS.png)
+![RLS Setup](Draft_FIles/Draft_ScreenShots/Draft_SecurtiySetup.png)
+![RLS Setup](Draft_FIles/Draft_ScreenShots/RLS.png)
 
 #### Implemented dynamic Row-Level Security using:
 
